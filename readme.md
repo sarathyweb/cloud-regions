@@ -1,5 +1,5 @@
 # Cloud Regions
-List of Regions and Availability of muliple cloud providers
+List of Regions and Availability of multiple cloud providers
 
 ## Amazon Web Services
 
