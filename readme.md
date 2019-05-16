@@ -22,3 +22,16 @@ List of Regions and Availability of multiple cloud providers
 | eu-west-3 | Paris | `eu-west-3a` `eu-west-3b` `eu-west-3c`
 | eu-north-1 | Stockholm | `eu-north-1a` `eu-north-1b` `eu-north-1c`
 | sa-east-1 | Sao Paulo | `sa-east-1a` `sa-east-1c`
+
+## Google Cloud Platform
+| Region Code | Region Name | Availability Zones
+|-------------|------------|-------------------
+| asia-east1 | Taivan | `asia-east1-a` `asia-east1-b` `asia-east1-c`
+| asia-east2 | Hong Kong | `asia-east2-a` `asia-east2-b` `asia-east2-c`
+| asia-northeast1 | Tokyo | `asia-northeast1-a` `asia-northeast1-b` `asia-northeast1-c`
+| asia-northeast2 | Osaka | `asia-northeast2-a` `asia-northeast2-b` `asia-northeast2-c`
+| asia-south1 | Mumbai | `asia-south1-a` `asia-south1-b` `asia-south1-c`
+| asia-southeast1 | SIngapore | `asia-southeast1-a` `asia-southeast1-b` `asia-southeast1-c`
+| australia-southeast1 | Sydney | `australia-southeast1-a` `australia-southeast1-b` `australia-southeast1-c`
+| europe-north1 | Finland | `europe-north1-a` `europe-north1-b` `europe-north1-c`
+| europe-west1 | Belgium | `europe-west1-b` `europe-west1-c` `europe-west1-d`
