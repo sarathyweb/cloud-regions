@@ -35,3 +35,9 @@ List of Regions and Availability of multiple cloud providers
 | australia-southeast1 | Sydney | `australia-southeast1-a` `australia-southeast1-b` `australia-southeast1-c`
 | europe-north1 | Finland | `europe-north1-a` `europe-north1-b` `europe-north1-c`
 | europe-west1 | Belgium | `europe-west1-b` `europe-west1-c` `europe-west1-d`
+
+## Amazon Lightsail
+
+| Region Code | Region Name | Availability Zones
+|-------------|------------|-------------------
+| us-east-1 | N. Virginia | `us-east-1a` `us-east-1b` `us-east-1c` `us-east-1d` `us-east-1e` `us-east-1f`
